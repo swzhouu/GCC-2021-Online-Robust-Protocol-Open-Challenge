@@ -4,10 +4,8 @@
 
 ### \*\*Note\*\*
 
-forked from [imaoca/robust](https://github.com/imaoca/robust)
-this repo was used to code and perform Team05's protocol.
-
-- On 23 January 2021 @GCC 2021 Online(https://gcc.ac/gcc_2021/)
+Forked from [imaoca/robust](https://github.com/imaoca/robust) this repo was used to code and perform Team05's protocol.
+On 23 January 2021 @GCC 2021 Online (https://gcc.ac/gcc_2021/)
 
 ---
 
